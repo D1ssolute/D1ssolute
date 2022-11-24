@@ -25,4 +25,4 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
 &nbsp;
 
 
-![D1ssolute's github stats](https://github-readme-stats.vercel.app/api?username=D1ssolute&show_icons=true&hide_border=true)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D1ssolute&show_icons=true&hide_border=true)
+![D1ssolute's github stats](https://github-readme-stats.vercel.app/api?username=D1ssolute&show_icons=true&hide_border=true)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D1ssolute&show_icons=true&hide_border=true)
