@@ -7,7 +7,7 @@ From Russia with Love :)
 
 
 
- <img align="right" height="195px" alt="GIF" src="https://cdn.discordapp.com/attachments/564479124924530718/1045209085999579136/Drone.gif" />
+ <img align="right" height="190px" alt="GIF" src="https://cdn.discordapp.com/attachments/564479124924530718/1045209085999579136/Drone.gif" />
 
 **Talking about Education/Skills:**
 
