@@ -1,17 +1,5 @@
 ### Hey 👋, I'm [Prudhvi Garapati!](https://github.com/PrudhviGNV)
 
-
-<a href="https://www.linkedin.com/in/prudhvignv/">
-  <img align="left" alt="Prudhvi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/prudhvi_gnv/">
-  <img align="left" alt="Prudhvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br />
- <a href="https://prudhvignv.github.io/" align="left" > My portfolio : prudhvignv.github.io </a> 
-<br />
-<br />
-
 Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer science. Enthusiastic in Data science and web development. Looking for opportunities to work in Reputed Innovative Companies. Fascinated in solving problems and accepting new challenges.Intern at TheSmartbridge in Machine learning and deep learning and experienced real time Industry projects.
 
 
