@@ -19,7 +19,7 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
 
 
 
- <img align="right" height="300px" width= "320px" alt="GIF" src="https://cdn.discordapp.com/attachments/564479124924530718/1045209085999579136/Drone.gif" />
+ <img align="right" height="300px" alt="GIF" src="https://cdn.discordapp.com/attachments/564479124924530718/1045209085999579136/Drone.gif" />
 
 **Talking about Education/Skills:**
 
