@@ -25,6 +25,6 @@ Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer sc
 &nbsp;
 
 <a href="https://github.com/D1ssolute">
-  <img height="140em" src="https://github-readme-stats.ujwalkandi.vercel.app/api?username=D1ssolue&count_private=true&show_icons=true&default-green&hide_rank=false&hide=stars&include_all_commits=true"/>
+  <img height="140em" src="https://github-readme-stats.ujwalkandi.vercel.app/api?username=D1ssolute&count_private=true&show_icons=true&default-green&hide_rank=false&hide=stars&include_all_commits=true"/>
   <img height="140em" src="https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=D1ssolute&layout=compact&langs_count=6&theme=default"/>
 </a>
