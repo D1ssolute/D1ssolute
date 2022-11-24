@@ -1,5 +1,3 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
-
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -43,8 +41,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=D1ssolute&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=D1ssolute&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="176em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=D1ssolute&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="176em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=D1ssolute&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -59,8 +57,3 @@
 <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
-
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
