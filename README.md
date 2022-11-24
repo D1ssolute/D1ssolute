@@ -1,3 +1,5 @@
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -41,8 +43,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="176em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=D1ssolute&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="176em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=D1ssolute&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=D1ssolute&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=D1ssolute&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
