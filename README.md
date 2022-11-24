@@ -1,35 +1,40 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+### Hey 👋, I'm [Prudhvi Garapati!](https://github.com/PrudhviGNV)
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
-
-<img height="200em" alt="Drone" src="https://cdn.discordapp.com/attachments/564479124924530718/1045209085999579136/Drone.gif" align="right"/>
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=D1ssolute&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=D1ssolute&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://www.linkedin.com/in/prudhvignv/">
+  <img align="left" alt="Prudhvi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-</p>
+<a href="https://www.instagram.com/prudhvi_gnv/">
+  <img align="left" alt="Prudhvi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br />
+ <a href="https://prudhvignv.github.io/" align="left" > My portfolio : prudhvignv.github.io </a> 
+<br />
+<br />
 
-### 🤝🏻 &nbsp;Connect with Me
+Hi, I'm Prudhvi GNV,a passionate engineering graduate specialised in computer science. Enthusiastic in Data science and web development. Looking for opportunities to work in Reputed Innovative Companies. Fascinated in solving problems and accepting new challenges.Intern at TheSmartbridge in Machine learning and deep learning and experienced real time Industry projects.
 
-<p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>
+
+"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
+
+
+
+ <img align="right" height="300px" width= "320px" alt="GIF" src="https://cdn.discordapp.com/attachments/564479124924530718/1045209085999579136/Drone.gif" />
+
+**Talking about Education/Skills:**
+
+- 🎓 Graduating in 2021 from Gudlavalleru Enginering College
+-  python 
+-  Data Science , Machine Learning, Deep Learning and Web development
+- Python , Java, JavaScript, C, C#
+-  Html, CSS, Java Script, JQuery, BootStrap, React
+-  DBMS, MySQL, MongoDB
+-  libraries: Keras, OpenCv, Scikit-learn, Numpy, Pandas, Matplotlib
+
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: prudhvi.gnv@gmail.com
+
+&nbsp;
+
+
+![Prudhvi's github stats](https://github-readme-stats.vercel.app/api?username=D1ssolute&show_icons=true&hide_border=true)
