@@ -2,7 +2,7 @@
 
 A passionate coding enthusiast and engineer specialised in robotics from Russia. I'm favoring computer vision, machine learning and focused on autonomous robots projects. Working in student design bureau at drone manufacturing company in Saint Petersburg at the moment. Fascinated in solving problems and accepting new challenges.
 
-~Looking forward to create autonomous CV robot partly controllable through Telegram bot.
+~Looking forward to create autonomous CV robot partly controllable through Telegram bot using Raspberry Pi 4B.
 
  <img align="right" height="190px" alt="GIF" src="https://cdn.discordapp.com/attachments/564479124924530718/1045209085999579136/Drone.gif" />
 
