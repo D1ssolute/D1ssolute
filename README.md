@@ -10,8 +10,8 @@ Looking forward to create an autonomous CV CCTV partly controllable through Tele
 
 - Graduating in 2025 from Peter the Great Saint Petersburg Polytechnic University
 - Student at mechatronics and robotics field of study
-- Python, C++, C
-- ROS, Docker, MATLAB, Linux, Git, CAD and ECAD working experience
+- Using Python, C++, C in my projects
+- I have experience working with ROS, Docker, MATLAB, Linux, Git, several CAD and ECAD programmes
 - You can ask me about my projects and collaboration options
 - Contact me: makarov.dslt@gmail.com or https://t.me/makarov_gv
 
