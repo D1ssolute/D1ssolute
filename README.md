@@ -1,4 +1,4 @@
-### Yo 👋, I'm Georgy Makarov
+### Yo, I'm Georgy Makarov =)
 
 A passionate coding enthusiast and robotics engineer from Russia. I'm favoring computer vision and machine learning, focused on autonomous robots projects. Working in a student design bureau at the drone manufacturing company in Saint Petersburg at the moment. Fascinated in solving problems and accepting new challenges.
 
