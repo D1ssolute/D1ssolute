@@ -7,7 +7,6 @@ Looking forward to create an autonomous CV CCTV partly controllable through Tele
 <img align="right" height="219px" alt="GIF" src="https://cdn.discordapp.com/attachments/564479124924530718/1045822523490717696/Drone.gif" />
 
 **Talking about education and skills:**
-
 - A bachelor student in Peter the Great Saint Petersburg Polytechnic University, will graduate in 2025
 - Currently at mechatronics and robotics field of study
 - Using Python, C++, C in my projects
