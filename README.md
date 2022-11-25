@@ -8,9 +8,9 @@ Looking forward to create an autonomous CV CCTV partly controllable through Tele
 
 **Talking about education and skills:**
 
-- 🎓 Graduating in 2021 from Gudlavalleru Enginering College
--  python 
--  Data Science , Machine Learning, Deep Learning and Web development
+- Graduating in 2025 from Peter the Great Saint Petersburg Polytechnic University
+- Studying at mechatronics and robotics, autonomous robots educational profile 
+- Computer Vision, Image Proccesing, Machine Learning, Deep Learning, AI.
 - Python , Java, JavaScript, C, C#
 -  Html, CSS, Java Script, JQuery, BootStrap, React
 -  DBMS, MySQL, MongoDB
