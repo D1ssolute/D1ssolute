@@ -9,15 +9,11 @@ Looking forward to create an autonomous CV CCTV partly controllable through Tele
 **Talking about education and skills:**
 
 - Graduating in 2025 from Peter the Great Saint Petersburg Polytechnic University
-- Studying at mechatronics and robotics, autonomous robots educational profile 
-- Computer Vision, Image Proccesing, Machine Learning, Deep Learning, AI.
-- Python , Java, JavaScript, C, C#
--  Html, CSS, Java Script, JQuery, BootStrap, React
--  DBMS, MySQL, MongoDB
--  libraries: Keras, OpenCv, Scikit-learn, Numpy, Pandas, Matplotlib
-
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: prudhvi.gnv@gmail.com
+- Student at mechatronics and robotics field of study=
+- Python, C++, C
+- ROS, Docker, MATLAB, CAD and ECAD working experience
+- 💬 You can ask me about my projects and collaboration options
+- 📫 You can reach my by e-mail or Telegram: makarov.dslt@gmail.com or https://t.me/makarov_gv
 
 **GitHub statistics:**
 
