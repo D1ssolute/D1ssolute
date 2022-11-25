@@ -8,7 +8,7 @@ Looking forward to create an autonomous CV CCTV partly controllable through Tele
 
 **Talking about education and skills:**
 
-- Graduating in 2025 from Saint Petersburg Polytechnic University
+- Graduating in 2025 from Peter the Great Saint Petersburg Polytechnic University as bachelor
 - Student at mechatronics and robotics field of study
 - Using Python, C++, C in my projects
 - I have experience working with ROS, Docker, MATLAB, Linux, Git, several CAD and ECAD programmes
