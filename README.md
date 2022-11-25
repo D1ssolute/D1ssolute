@@ -1,6 +1,6 @@
 ### Yo 👋, I'm Georgy Makarov
 
-A passionate coding enthusiast and robotics engineer from Russia. I'm favoring computer vision, machine learning and focused on autonomous robots projects. Working in student design bureau at drone manufacturing company in Saint Petersburg at the moment. Fascinated in solving problems and accepting new challenges.
+A passionate coding enthusiast and robotics engineer from Russia. I'm favoring computer vision and machine learning, focused on autonomous robots projects. Working in student design bureau at drone manufacturing company in Saint Petersburg at the moment. Fascinated in solving problems and accepting new challenges.
 
 Looking forward to create an autonomous CV CCTV partly controllable through Telegram bot using Raspberry Pi 4B.
 
