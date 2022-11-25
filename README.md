@@ -15,7 +15,6 @@ Looking forward to create an autonomous CV CCTV partly controllable through Tele
 - Contact me: makarov.dslt@gmail.com or https://t.me/makarov_gv
 
 **GitHub statistics:**
-
 <p align="center">
 <a href="https://github.com/D1ssolute">
   <img height="140em" src="https://github-readme-stats.ujwalkandi.vercel.app/api?username=D1ssolute&count_private=true&show_icons=true&default-green&hide_rank=false&hide=stars&include_all_commits=true"/>
