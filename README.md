@@ -4,7 +4,7 @@ A passionate coding enthusiast and robotics engineer from Russia. I'm favoring c
 
 Looking forward to create an autonomous CV CCTV partly controllable through Telegram bot using Raspberry Pi 4B.
 
-<img align="right" height="176px" alt="GIF" src="https://cdn.discordapp.com/attachments/564479124924530718/1049451285751005204/D1ssolute.gif" />
+<img align="right" height="176px" alt="GIF" src="https://cdn.discordapp.com/attachments/564479124924530718/1049454592540291112/D1ssolute.gif" />
 
 **:mortar_board: Talking about education and skills:**
 - A bachelor student in Peter the Great Saint Petersburg Polytechnic University, will graduate in 2025
