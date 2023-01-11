@@ -17,7 +17,7 @@ Looking forward to create an autonomous CV CCTV partly controllable through Tele
 **:bar_chart: GitHub statistics:**
 <p align="center">
 <a href="https://github.com/D1ssolute">
-  <img height="140em" src="https://github-readme-stats.ujwalkandi.vercel.app/api?username=Cosmoroz&count_private=true&show_icons=true&default-green&hide_rank=false&hide=stars&include_all_commits=true"/>
+  <img height="140em" src="https://github-readme-stats.ujwalkandi.vercel.app/api?username=Cosmoroz&count_private=true&show_icons=true&default-green&hide_rank=false&hide=stars&include_all_commits=true&theme=dark"/>
   <img height="140em" src="https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=Cosmoroz&layout=compact&langs_count=6&theme=dark"/>
 </a>
 </p>
