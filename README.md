@@ -12,7 +12,7 @@ Looking forward to create an autonomous CV CCTV partly controllable through Tele
 - Using Python, C++, C in my projects
 - I have some experience working with ROS, Docker, MATLAB, Linux, Git, several CAD and ECAD programmes
 - Feel free to ask me about my projects and collaboration options
-- Contact me: makarov.dslt@gmail.com or https://t.me/makarov_gv
+- Contact me: makarov.gv@proton.me or https://t.me/makarov_gv
 
 **:bar_chart: GitHub statistics:**
 <p align="center">
